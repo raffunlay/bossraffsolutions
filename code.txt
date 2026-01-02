@@ -1,0 +1,5 @@
+index.html (your updated production-ready HTML)
+
+style.css (if you separated it; optional since you embedded CSS)
+
+logo.png / favicon.png (optional, the logo you just generated)
